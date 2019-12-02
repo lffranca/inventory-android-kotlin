@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="available">Available</string>
+    <string name="delivered">Delivered</string>
+    <string name="lost">Lost</string>
+    <string name="in_repair">In Repair</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="english">English</string>
+</resources>
